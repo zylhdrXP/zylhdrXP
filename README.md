@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Beginner WhatsApp Bot Developer 🤖 | Node.js Explorer 🚀 | Automation Enthusiast 🌱</em>
+  <em>Android ROM Builder 🧱 | Linux Enthusiast 🐧 | Garnet Maintainer (Soon) 🚀</em>
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
@@ -17,6 +17,9 @@
   <a href="mailto:zylhdr@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Device-Garnet-blue?style=for-the-badge&logo=android&logoColor=white" alt="Device" />
+  </a>
 </div>
 
 ---
@@ -24,29 +27,39 @@
 ## 🚀 About Me
 
 ```diff
-- Passionate about building smart WhatsApp bots using Node.js & Baileys
-+ Always learning, experimenting, and automating tasks to make life easier
-- Beginner but highly motivated to grow and contribute to open source
+- Previously exploring Node.js bots & automation
++ Currently diving deep into Android Source Code (AOSP)
+! Focused on building stable ROMs for POCO X6 5G / Redmi Note 13 Pro 5G (Garnet)
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Build Arsenal
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Baileys" src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
-- Mastering **Node.js** & **Baileys** for WhatsApp bot development  
-- Building **automation scripts** to simplify daily tasks  
-- Learning **API integrations** and **database management**  
-- Exploring **open source projects** and contributing where possible  
+- 🏗️ Porting & Compiling Custom ROMs for **Garnet**
+- 🔧 Fixing dependencies, blobs, and device tree errors
+- 🐧 Learning Kernel compilation & patches
+- 🐛 Fighting against bootloops (and winning, hopefully!)
+
+---
+
+## 📱 My Device
+
+| Device Name | Codename | Chipset | Role |
+| :--- | :--- | :--- | :--- |
+| **POCO X6 5G / RN13 Pro 5G** | `garnet` | Snapdragon 7s Gen 2 | Main Driver / Build Target |
 
 ---
 
@@ -54,12 +67,12 @@
 
 <p align="center">
   <a href="https://github.com/zylhdrXP" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+    <img src="https://img.shields.io/badge/Check_My_Builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
   </a>
 </p>
 
 <p align="center">
-  <em>Feel free to reach out! I’m always excited to connect, collaborate, and learn together. 🤝</em>
+  <em>Got a fix for that one specific HAL bug? Hit me up! Let's build something awesome. 🤝</em>
 </p>
 
 ---
@@ -69,8 +82,5 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  Made with 💙 by <strong>Alhaidar Latif</strong>
+  Compiling with 💙 by <strong>Alhaidar Latif</strong>
 </div>
-
-
----
