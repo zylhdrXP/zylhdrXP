@@ -76,12 +76,17 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/zylhdrXP/zylhdrXP/output/github-contribution-grid-snake-dark.svg" />
 
 <p align="center">
   <img src="https://qu.ax/BZSxR.gif" alt="Coding Animation" width="400" />
 </p>
 
-![GitHub Profile Stats](https://gh-readme-profile.vercel.app/api?username=zylhdrxp&theme=dark)
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=zylhdrxp&theme=dark" />
+</p>
 
 <div align="center" style="margin-top: 20px;">
   Compiling with 💙 by <strong>Alhaidar Latif</strong>
