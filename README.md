@@ -81,6 +81,8 @@
   <img src="https://qu.ax/BZSxR.gif" alt="Coding Animation" width="400" />
 </p>
 
+![GitHub Profile Stats](https://gh-readme-profile.vercel.app/api?username=zylhdrxp&theme=dark)
+
 <div align="center" style="margin-top: 20px;">
   Compiling with 💙 by <strong>Alhaidar Latif</strong>
 </div>
