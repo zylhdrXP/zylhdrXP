@@ -14,7 +14,7 @@
   <a href="https://github.com/zylhdrXP" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:zylhdr@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:ziyalhaidar@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#">
@@ -66,7 +66,7 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/zylhdrXP" target="_blank" rel="noopener">
+  <a href="https://t.me/zylplayground" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Check_My_Builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
   </a>
 </p>
@@ -76,7 +76,7 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/zylhdrXP/zylhdrXP/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/zylhdrXP/zylhdrXP/raw/refs/heads/output/snake.svg" />
 
 <p align="center">
   <img src="https://qu.ax/BZSxR.gif" alt="Coding Animation" width="400" />
