@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <em>Got a fix for that one specific HAL bug? Hit me up! Let's build something awesome. 🤝</em>
+  <em>Let's build something awesome. 🤝</em>
 </p>
 
 ---
