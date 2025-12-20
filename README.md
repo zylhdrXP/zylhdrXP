@@ -1,39 +1,3 @@
-<h1 align="center">
-  <span>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Cool Icon" width="40" />
-  </span>
-  <br />
-  Hi, I'm <span style="color:#4ade80;">Alhaidar Latif</span>! 👋
-</h1>
-
-<p align="center">
-  <em>Android ROM Builder 🧱 | Linux Enthusiast 🐧 | Garnet Maintainer (Soon) 🚀</em>
-</p>
-
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://github.com/zylhdrXP" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ziyalhaidar@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Device-Garnet-blue?style=for-the-badge&logo=android&logoColor=white" alt="Device" />
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-```diff
-- Previously exploring Node.js bots & automation
-+ Currently diving deep into Android Source Code (AOSP)
-! Focused on building stable ROMs for POCO X6 5G / Redmi Note 13 Pro 5G (Garnet)
-```
-
----
-
 ## 🛠️ Build Arsenal
 
 <p align="center">
@@ -43,15 +7,6 @@
   <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
----
-
-## 🎯 Current Mission
-
-- 🏗️ Porting & Compiling Custom ROMs for **Garnet**
-- 🔧 Fixing dependencies, blobs, and device tree errors
-- 🐧 Learning Kernel compilation & patches
-- 🐛 Fighting against bootloops (and winning, hopefully!)
 
 ---
 
