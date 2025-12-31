@@ -43,7 +43,9 @@
   <p align="center">
   <img src="https://gh-readme-profile.vercel.app/api?username=zylhdrxp&theme=dark" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zylhdrXP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p align="center">
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=zylhdrXP&type=languages&theme=github&chart=bars" />
+</p>
 </div>
 
 ###
