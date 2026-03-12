@@ -31,7 +31,7 @@
 </p>
 
 ---
-<img src="https://github.com/zylhdrXP/zylhdrXP/raw/refs/heads/output/snake.svg" />
+![My GitHub Game](game.gif)
 
 <p align="center">
   <img src="https://qu.ax/BZSxR.gif" alt="Coding Animation" width="400" />
