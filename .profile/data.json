@@ -1,0 +1,716 @@
+{
+ "key": "956d54ff",
+ "stars": 16,
+ "contributions": 1312,
+ "repos": 61,
+ "followers": 10,
+ "languages": [
+  [
+   "C",
+   1149359285
+  ],
+  [
+   "Assembly",
+   9492012
+  ],
+  [
+   "C++",
+   9253467
+  ],
+  [
+   "Python",
+   1237867
+  ],
+  [
+   "Perl",
+   1184174
+  ],
+  [
+   "Kotlin",
+   783086
+  ],
+  [
+   "Java",
+   314326
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 8,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 32,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 29,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 2,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "android_device_xiaomi_garnet",
+   "url": "https://github.com/Fleur-Project/android_device_xiaomi_garnet",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "force-push-warning"
+   ]
+  },
+  {
+   "name": "proprietary_vendor_xiaomi_garnet",
+   "url": "https://github.com/Fleur-Project/proprietary_vendor_xiaomi_garnet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_sm7435",
+   "url": "https://github.com/Fleur-Project/android_kernel_xiaomi_sm7435",
+   "text": "",
+   "fork": false,
+   "stars": 4,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "FleurX-GKI-Release",
+   "url": "https://github.com/zylhdrXP/FleurX-GKI-Release",
+   "text": "",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "FleurX-Release",
+   "url": "https://github.com/zylhdrXP/FleurX-Release",
+   "text": "",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_kernel_common-5.10",
+   "url": "https://github.com/zylhdrXP/android_kernel_common-5.10",
+   "text": "android common kernel",
+   "fork": true,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "FleurX-Bot",
+   "url": "https://github.com/zylhdrXP/FleurX-Bot",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "vendor_lineage-priv_keys-template",
+   "url": "https://github.com/zylhdrXP/vendor_lineage-priv_keys-template",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "build-signed-script",
+   "url": "https://github.com/zylhdrXP/build-signed-script",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_sm7435",
+   "url": "https://github.com/zylhdrXP/android_kernel_xiaomi_sm7435",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "gpu-driver",
+   "url": "https://github.com/zylhdrXP/gpu-driver",
+   "text": "GPU Driver Update (Adreno 819.x) – Integration Guide for Xiaomi Garnet",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zylhdrXP",
+   "url": "https://github.com/zylhdrXP/zylhdrXP",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "OTA",
+   "url": "https://github.com/zylhdrXP/OTA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "crdroid_packages_apps_Updater",
+   "url": "https://github.com/zylhdrXP/crdroid_packages_apps_Updater",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "crdroid_packages_apps_Settings",
+   "url": "https://github.com/zylhdrXP/crdroid_packages_apps_Settings",
+   "text": "Settings System (crDroid Android)",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "android_vendor_crdroid",
+   "url": "https://github.com/zylhdrXP/android_vendor_crdroid",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "android_system_core",
+   "url": "https://github.com/zylhdrXP/android_system_core",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_frameworks_base",
+   "url": "https://github.com/zylhdrXP/android_frameworks_base",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "infinity_apps_LMOFreeform",
+   "url": "https://github.com/zylhdrXP/infinity_apps_LMOFreeform",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "susfs4ksu",
+   "url": "https://github.com/zylhdrXP/susfs4ksu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ReSukiSU",
+   "url": "https://github.com/zylhdrXP/ReSukiSU",
+   "text": "A KernelSU based root solution for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "RootlessJamesDSP",
+   "url": "https://github.com/zylhdrXP/RootlessJamesDSP",
+   "text": "An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "CHANGELOG",
+   "url": "https://github.com/zylhdrXP/CHANGELOG",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "device_xiaomi_garnet",
+   "url": "https://github.com/zylhdrXP/device_xiaomi_garnet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "bootimg-to-anykernel",
+   "url": "https://github.com/zylhdrXP/bootimg-to-anykernel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "hardware_qcom-caf_sm8450_display",
+   "url": "https://github.com/zylhdrXP/hardware_qcom-caf_sm8450_display",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "frameworks_native",
+   "url": "https://github.com/zylhdrXP/frameworks_native",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_LMOFreeform",
+   "url": "https://github.com/zylhdrXP/packages_apps_LMOFreeform",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "FleurX-GKI-Builder",
+   "url": "https://github.com/zylhdrXP/FleurX-GKI-Builder",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_Launcher3",
+   "url": "https://github.com/zylhdrXP/packages_apps_Launcher3",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "parts_dump",
+   "url": "https://github.com/zylhdrXP/parts_dump",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "AnyKernel3",
+   "url": "https://github.com/zylhdrXP/AnyKernel3",
+   "text": "AnyKernel, Evolved",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "android_frameworks_native",
+   "url": "https://github.com/zylhdrXP/android_frameworks_native",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "hardware_dolby",
+   "url": "https://github.com/zylhdrXP/hardware_dolby",
+   "text": "hardware/dolby",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_FastCharge",
+   "url": "https://github.com/zylhdrXP/packages_apps_FastCharge",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "yaap_device_xiaomi_garnet",
+   "url": "https://github.com/zylhdrXP/yaap_device_xiaomi_garnet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "yaap_hardware_qcom-caf_common",
+   "url": "https://github.com/zylhdrXP/yaap_hardware_qcom-caf_common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "official_devices-ascp",
+   "url": "https://github.com/zylhdrXP/official_devices-ascp",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom-caf_common",
+   "url": "https://github.com/zylhdrXP/android_hardware_qcom-caf_common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_interfaces",
+   "url": "https://github.com/zylhdrXP/android_hardware_interfaces",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "hardware_afterlife_interfaces",
+   "url": "https://github.com/zylhdrXP/hardware_afterlife_interfaces",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "device_afterlife_sepolicy",
+   "url": "https://github.com/zylhdrXP/device_afterlife_sepolicy",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "hardware_qcom-caf_common",
+   "url": "https://github.com/zylhdrXP/hardware_qcom-caf_common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_display",
+   "url": "https://github.com/zylhdrXP/android_hardware_qcom_display",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_LunarisDolby",
+   "url": "https://github.com/zylhdrXP/packages_apps_LunarisDolby",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "crDroid-build-signed-script",
+   "url": "https://github.com/zylhdrXP/crDroid-build-signed-script",
+   "text": "Build script for creating signed crDroid OTA packages",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "local_manifests",
+   "url": "https://github.com/zylhdrXP/local_manifests",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_sm7435-modules",
+   "url": "https://github.com/zylhdrXP/android_kernel_xiaomi_sm7435-modules",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_xiaomi",
+   "url": "https://github.com/zylhdrXP/android_hardware_xiaomi",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android-build-setup_script",
+   "url": "https://github.com/zylhdrXP/android-build-setup_script",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "official_devices",
+   "url": "https://github.com/zylhdrXP/official_devices",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vendor_euclid",
+   "url": "https://github.com/zylhdrXP/vendor_euclid",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "vendor_euclid.JSON",
+   "url": "https://github.com/zylhdrXP/vendor_euclid.JSON",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_GameBar",
+   "url": "https://github.com/zylhdrXP/packages_apps_GameBar",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "device_afterlife_ota",
+   "url": "https://github.com/zylhdrXP/device_afterlife_ota",
+   "text": "OTA configuration for AfterLife OTA",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vendor_signed",
+   "url": "https://github.com/zylhdrXP/vendor_signed",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "orion_ota",
+   "url": "https://github.com/zylhdrXP/orion_ota",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "CL",
+   "url": "https://github.com/zylhdrXP/CL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "official_maintainer",
+   "url": "https://github.com/zylhdrXP/official_maintainer",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "proprietary_vendor_xiaomi_garnet",
+   "url": "https://github.com/zylhdrXP/proprietary_vendor_xiaomi_garnet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "device_lineage_sepolicy",
+   "url": "https://github.com/zylhdrXP/device_lineage_sepolicy",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "frameworks_libs_systemui",
+   "url": "https://github.com/zylhdrXP/frameworks_libs_systemui",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "android_packages_apps_ExthmUseful",
+   "url": "https://github.com/zylhdrXP/android_packages_apps_ExthmUseful",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Damikha",
+   "url": "https://github.com/zylhdrXP/Damikha",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
