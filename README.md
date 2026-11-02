@@ -1,64 +1,21 @@
-## 🛠️ Build Arsenal
-
-<!-- ARSENAL_START -->
-<p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-<!-- ARSENAL_END -->
-
----
-
-## 📱 My Device
-
-| Device Name | Codename | Chipset | Role |
-| :--- | :--- | :--- | :--- |
-| **POCO X6 5G / RN13 Pro 5G** | `garnet` | Snapdragon 7s Gen 2 | Main Driver / Build Target |
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://t.me/zylplayground" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Check_My_Builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Let's build something awesome. 🤝</em>
-</p>
-
----
-![My GitHub Game](game.gif)
-
-<p align="center">
-  <img src="https://qu.ax/BZSxR.gif" alt="Coding Animation" width="400" />
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-
 <div align="center">
-  <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=zylhdrxp&theme=dark" />
-</p>
-  <p align="center">
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=zylhdrXP&type=languages&theme=github&chart=bars" />
-</p>
-</div>
 
-###
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m zylhdrXP"></picture>
 
-<div align="center" style="margin-top: 20px;">
-  Compiling with 💙 by <strong>Alhaidar Latif</strong>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="31.520%" alt=""></picture><a href="https://t.me/ZylhdrXP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://instagram.com/alhaidarlatif"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.836%" alt="instagram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="31.520%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://t.me/ZylhdrXP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Telegram"></picture></a>&nbsp;&nbsp;<a href="https://github.com/zylhdrXP?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=zylhdrXP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
