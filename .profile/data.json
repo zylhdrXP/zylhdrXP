@@ -1,7 +1,7 @@
 {
- "key": "b2bc9d72",
+ "key": "bcd687d3",
  "stars": 16,
- "contributions": 1496,
+ "contributions": 1499,
  "repos": 63,
  "followers": 10,
  "languages": [
@@ -38,43 +38,6 @@
   [
    {
     "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 12,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 14,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 9,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 16,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 7,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 20,
-    "day": 7,
-    "today": false
-   }
-  ],
-  [
-   {
-    "c": 0,
     "day": 8,
     "today": false
    },
@@ -94,12 +57,12 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 12,
     "today": false
    },
    {
-    "c": 24,
+    "c": 25,
     "day": 13,
     "today": false
    },
@@ -116,7 +79,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 7,
     "day": 16,
     "today": false
    },
@@ -143,12 +106,25 @@
    {
     "c": 0,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 13
  },
  "pins": [
